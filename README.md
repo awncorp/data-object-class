@@ -30,7 +30,7 @@ This package inherits behaviors from:
 
 This package supports the following scenarios:
 
-## keyword-extends
+## extends
 
     # given: synopsis
 
@@ -47,7 +47,7 @@ This package supports the following scenarios:
 This package supports the `extends` keyword, which is used to declare
 superclasses your class will inherit from. See [Moo](https://metacpan.org/pod/Moo) for more information.
 
-## keyword-has
+## has
 
     # given: synopsis
 
@@ -67,7 +67,7 @@ This package supports the `has` keyword, which is used to declare class
 attributes, which can be accessed and assigned to using the built-in
 getter/setter or by the object constructor. See [Moo](https://metacpan.org/pod/Moo) for more information.
 
-## keyword-with
+## with
 
     # given: synopsis
 
@@ -98,18 +98,18 @@ Copyright (C) 2011-2019, Al Newkirk, et al.
 
 This is free software; you can redistribute it and/or modify it under the terms
 of the The Apache License, Version 2.0, as elucidated in the ["license
-file"](https://github.com/iamalnewkirk/foobar/blob/master/LICENSE).
+file"](https://github.com/iamalnewkirk/data-object-class/blob/master/LICENSE).
 
 # PROJECT
 
-[Wiki](https://github.com/iamalnewkirk/foobar/wiki)
+[Wiki](https://github.com/iamalnewkirk/data-object-class/wiki)
 
-[Project](https://github.com/iamalnewkirk/foobar)
+[Project](https://github.com/iamalnewkirk/data-object-class)
 
-[Initiatives](https://github.com/iamalnewkirk/foobar/projects)
+[Initiatives](https://github.com/iamalnewkirk/data-object-class/projects)
 
-[Milestones](https://github.com/iamalnewkirk/foobar/milestones)
+[Milestones](https://github.com/iamalnewkirk/data-object-class/milestones)
 
-[Contributing](https://github.com/iamalnewkirk/foobar/blob/master/CONTRIBUTE.md)
+[Contributing](https://github.com/iamalnewkirk/data-object-class/blob/master/CONTRIBUTE.md)
 
-[Issues](https://github.com/iamalnewkirk/foobar/issues)
+[Issues](https://github.com/iamalnewkirk/data-object-class/issues)
