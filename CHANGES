@@ -1,6 +1,11 @@
 Changelog for Data-Object-Class
 
-2.00 2020-02-08T23:10:18
+2.01 2020-02-14T19:57:24
+ - Added release updates
+ - Fix typos in documentation
+
+2.00 2020-02-08T23:10:19
+ - Built release version 2.00
  - Added release updates
  - Initial implementation
  - Initial commit
